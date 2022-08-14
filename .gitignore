@@ -1,0 +1,11 @@
+/build*
+*.bat
+*.exe
+*.ttf
+*.rdbg
+*.obj
+*.pdb
+*.ilk
+*.lib
+*temp*
+/.vscode
