@@ -411,6 +411,7 @@ main() {
 	};
 
 	cstring raylibExtraWatch[] = {
+		"code/raylib/src/*.h",
 		"code/raylib/src/external/glfw/src/*.c",
 		"code/raylib/src/external/glfw/src/*.h",
 	};
